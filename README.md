@@ -3,7 +3,7 @@
 # metaCAT: A Metadata-based Task-oriented Chatbot Annotation Tool
 
 ## Copyright
-metaCAT is developed by Huawei AI Application Research Center under GPL-2.0 License.
+metaCAT is developed by HUAWEI AI Application Research Center under GPL-2.0 License.
 
 ## Overview
 metaCAT is an open-source web-based annotation tool designed specifically for developing task-oriented dialogue data. 
